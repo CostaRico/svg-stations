@@ -298,28 +298,28 @@
                 <circle cx="308" cy="801" r="5" fill="#EF1E25"></circle>
                 <circle cx="308" cy="821" r="5" fill="#EF1E25"></circle>
                 <circle cx="308" cy="841" r="5" fill="#EF1E25"></circle>
-                <circle cx="457" cy="15" r="5" fill="#029A55"></circle>
-                <circle cx="457" cy="35" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="457" cy="115" r="5" fill="#029A55"></circle>
-                <circle cx="457" cy="154" r="5" fill="#029A55"></circle>
-                <circle cx="457" cy="175" r="5" fill="#029A55"></circle>
-                <circle cx="457" cy="196" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="516" cy="266" r="5" fill="#029A55"></circle>
-                <circle cx="516" cy="352" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="516" cy="377" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="607" cy="468" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="679" cy="540" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="758" cy="619" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="806" cy="720" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="791" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="808" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="806" cy="827" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="887" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="907" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="927" r="5" fill="#029A55"></circle>
-                <circle cx="806" cy="947" r="5" fill="#029A55"></circle>
-                <circle stroke="#fff" cx="826" cy="961" r="5" fill="#029A55"></circle>
-                <circle cx="826" cy="981" r="5" fill="#029A55"></circle>
+                <circle cx="457" cy="15" r="5" fill="#029A55" data-station-id="40"></circle>
+                <circle cx="457" cy="35" r="5" fill="#029A55" data-station-id="1"></circle>
+                <circle stroke="#fff" cx="457" cy="115" r="5" fill="#029A55" data-station-id="2"></circle>
+                <circle cx="457" cy="154" r="5" fill="#029A55" data-station-id="3"></circle>
+                <circle cx="457" cy="175" r="5" fill="#029A55" data-station-id="4"></circle>
+                <circle cx="457" cy="196" r="5" fill="#029A55" data-station-id="5"></circle>
+                <circle stroke="#fff" cx="516" cy="266" r="5" fill="#029A55" data-station-id="155"></circle>
+                <circle cx="516" cy="352" r="5" fill="#029A55" data-station-id="6"></circle>
+                <circle stroke="#fff" cx="516" cy="377" r="5" fill="#029A55" data-station-id="7"></circle>
+                <circle stroke="#fff" cx="607" cy="468" r="5" fill="#029A55" data-station-id="8"></circle>
+                <circle stroke="#fff" cx="679" cy="540" r="5" fill="#029A55" data-station-id="9"></circle>
+                <circle stroke="#fff" cx="758" cy="619" r="5" fill="#029A55" data-station-id="10"></circle>
+                <circle stroke="#fff" cx="806" cy="720" r="5" fill="#029A55" data-station-id="11"></circle>
+                <circle cx="806" cy="791" r="5" fill="#029A55" data-station-id="6001"></circle>
+                <circle cx="806" cy="808" r="5" fill="#029A55" data-station-id="12"></circle>
+                <circle stroke="#fff" cx="806" cy="827" r="5" fill="#029A55" data-station-id="13"></circle>
+                <circle cx="806" cy="887" r="5" fill="#029A55" data-station-id="16"></circle>
+                <circle cx="806" cy="907" r="5" fill="#029A55" data-station-id="17"></circle>
+                <circle cx="806" cy="927" r="5" fill="#029A55" data-station-id="18"></circle>
+                <circle cx="806" cy="947" r="5" fill="#029A55" data-station-id="19"></circle>
+                <circle stroke="#fff" cx="826" cy="961" r="5" fill="#029A55" data-station-id="20"></circle>
+                <circle cx="826" cy="981" r="5" fill="#029A55" data-station-id="227"></circle>
                 <circle cx="962" cy="251" r="5" fill="#0252A2"></circle>
                 <circle cx="962" cy="271" r="5" fill="#0252A2"></circle>
                 <circle cx="962" cy="291" r="5" fill="#0252A2"></circle>
@@ -625,110 +625,110 @@
                 <g>
                     <rect x="465" y="6" width="89.546875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="466" y="19" text-anchor="start">Речной вокзал</text>
+                    <text x="466" y="19" data-station-id="40" text-anchor="start">Речной вокзал</text>
                 </g>
                 <g>
                     <rect x="465" y="26" width="101.390625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="466" y="39" text-anchor="start">Водный стадион</text>
+                    <text x="466" y="39"  text-anchor="start" data-station-id="1">Водный стадион</text>
                 </g>
                 <g>
                     <rect x="377.265625" y="106" width="71.71875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="448" y="119" text-anchor="end">Войковская</text>
+                    <text x="448" y="119" text-anchor="end" data-station-id="2">Войковская</text>
                 </g>
                 <g>
                     <rect x="410.015625" y="145" width="38.96875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="448" y="158" text-anchor="end">Сокол</text>
+                    <text x="448" y="158" text-anchor="end" data-station-id="3">Сокол</text>
                 </g>
                 <g>
                     <rect x="389.75" y="166" width="59.234375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="448" y="179" text-anchor="end">Аэропорт</text>
+                    <text x="448" y="179" text-anchor="end" data-station-id="4">Аэропорт</text>
                 </g>
                 <g>
                     <rect x="400.34375" y="187" width="48.640625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="448" y="200" text-anchor="end">Динамо</text>
+                    <text x="448" y="200" text-anchor="end" data-station-id="5">Динамо</text>
                 </g>
                 <g class="">
                     <rect x="522" y="248" width="78.96875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="523" y="261" text-anchor="start">Белорусская</text>
+                    <text x="523" y="261" text-anchor="start" data-station-id="155">Белорусская</text>
                 </g>
                 <g class="">
                     <rect x="524" y="343" width="73.796875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="525" y="356" text-anchor="start">Маяковская</text>
+                    <text x="525" y="356" text-anchor="start" data-station-id="6">Маяковская</text>
                 </g>
                 <g class="">
                     <rect x="450.65625" y="368" width="57.328125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="507" y="381" text-anchor="end">Тверская</text>
+                    <text x="507" y="381" text-anchor="end" data-station-id="7">Тверская</text>
                 </g>
                 <g class="">
                     <rect x="615" y="459" width="79.59375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="616" y="472" text-anchor="start">Театральная</text>
+                    <text x="616" y="472" text-anchor="start" data-station-id="8">Театральная</text>
                 </g>
                 <g class="">
                     <rect x="578" y="531" width="93" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
-                    <text x="670" y="544" text-anchor="end">Новокузнецкая</text>
+                    <text x="670" y="544" text-anchor="end" data-station-id="9">Новокузнецкая</text>
                 </g>
                 <g>
                     <rect x="767" y="602" width="74.625" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
-                    <text x="768" y="615" text-anchor="start">Павелецкая</text>
+                    <text x="768" y="615" text-anchor="start" data-station-id="10">Павелецкая</text>
                 </g>
                 <g>
                     <rect x="705.5625" y="718" width="91.421875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="796" y="731" text-anchor="end">Автозаводская</text>
+                    <text x="796" y="731" text-anchor="end" data-station-id="11">Автозаводская</text>
                 </g>
                 <g>
                     <rect x="733.734375" y="782" width="64.34375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="795" text-anchor="end">Технопарк</text>
+                    <text x="797" y="795" text-anchor="end" data-station-id="6001">Технопарк</text>
                 </g>
                 <g>
                     <rect x="716.421875" y="799" width="81.5625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="812" text-anchor="end">Коломенская</text>
+                    <text x="797" y="812" text-anchor="end" data-station-id="12">Коломенская</text>
                 </g>
                 <g>
                     <rect x="728.53125" y="825" width="68.453125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="796" y="838" text-anchor="end">Каширская</text>
+                    <text x="796" y="838" text-anchor="end" data-station-id="13">Каширская</text>
                 </g>
                 <g>
                     <rect x="696.8125" y="878" width="101.171875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="891" text-anchor="end">Кантемировская</text>
+                    <text x="797" y="891" text-anchor="end" data-station-id="16">Кантемировская</text>
                 </g>
                 <g>
                     <rect x="733.171875" y="898" width="64.8125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="911" text-anchor="end">Царицыно</text>
+                    <text x="797" y="911" text-anchor="end" data-station-id="17">Царицыно</text>
                 </g>
                 <g>
                     <rect x="744.125" y="918" width="53.859375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="931" text-anchor="end">Орехово</text>
+                    <text x="797" y="931" text-anchor="end" data-station-id="18">Орехово</text>
                 </g>
                 <g>
                     <rect x="701.078125" y="938" width="96.90625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="797" y="951" text-anchor="end">Домодедовская</text>
+                    <text x="797" y="951" text-anchor="end" data-station-id="19">Домодедовская</text>
                 </g>
                 <g>
                     <rect x="698.5625" y="952" width="119.421875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="817" y="965" text-anchor="end">Красногвардейская</text>
+                    <text x="817" y="965" text-anchor="end" data-station-id="20">Красногвардейская</text>
                 </g>
                 <g>
                     <rect x="723.703125" y="972" width="94.28125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="817" y="985" text-anchor="end">Алма-Атинская</text>
+                    <text x="817" y="985" text-anchor="end" data-station-id="227">Алма-Атинская</text>
                 </g>
                 <g>
                     <rect x="970" y="242" width="75.5625" height="17" rx="3" ry="3" fill="#fff"
