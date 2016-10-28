@@ -1089,7 +1089,7 @@
                 <g class="selected-from-label selected-label">
                     <rect x="457" y="316" width="81.71875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="458" y="329" data-station-id="6" text-anchor="start" data-station-id="6">Баррикадная</text>
+                    <text x="458" y="329" data-station-id="6" text-anchor="start">Баррикадная</text>
                 </g>
                 <g class="">
                     <rect x="432.84375" y="383" width="75.140625" height="17" rx="3" ry="3" fill="#fff"
