@@ -336,11 +336,11 @@
                 <circle cx="124" cy="406" r="5" fill="#0252A2"></circle>
                 <circle stroke="#fff" cx="124" cy="357" r="5" fill="#0252A2"></circle>
                 <circle cx="124" cy="337" r="5" fill="#0252A2"></circle>
-                <circle cx="124" cy="317" r="5" fill="#0252A2"></circle>
-                <circle cx="124" cy="297" r="5" fill="#0252A2"></circle>
-                <circle cx="124" cy="277" r="5" fill="#0252A2"></circle>
-                <circle cx="124" cy="257" r="5" fill="#0252A2"></circle>
-                <circle cx="124" cy="237" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="317" r="5" fill="#0252A2" data-station-id="64"></circle>
+                <circle cx="124" cy="297" r="5" fill="#0252A2" data-station-id="165"></circle>
+                <circle cx="124" cy="277" r="5" fill="#0252A2" data-station-id="217"></circle>
+                <circle cx="124" cy="257" r="5" fill="#0252A2" data-station-id="175"></circle>
+                <circle cx="124" cy="237" r="5" fill="#0252A2" data-station-id="154"></circle>
                 <circle cx="124" cy="217" r="5" fill="#0252A2"></circle>
                 <circle stroke="#fff" cx="124" cy="372" r="5" fill="#019EE0"></circle>
                 <circle cx="149" cy="406" r="5" fill="#019EE0"></circle>
@@ -819,27 +819,27 @@
                 <g>
                     <rect x="42.71875" y="308" width="73.265625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="115" y="321" text-anchor="end">Крылатское</text>
+                    <text x="115" y="321" data-station-id="64" text-anchor="end">Крылатское</text>
                 </g>
                 <g>
                     <rect x="57.78125" y="288" width="58.203125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="115" y="301" text-anchor="end">Строгино</text>
+                    <text x="115" y="301" data-station-id="165" text-anchor="end">Строгино</text>
                 </g>
                 <g>
                     <rect x="54.328125" y="268" width="61.65625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="115" y="281" text-anchor="end">Мякинино</text>
+                    <text x="115" y="281" data-station-id="217" text-anchor="end">Мякинино</text>
                 </g>
                 <g>
                     <rect x="20.140625" y="248" width="95.84375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="115" y="261" text-anchor="end">Волоколамская</text>
+                    <text x="115" y="261" data-station-id="175" text-anchor="end">Волоколамская</text>
                 </g>
                 <g>
                     <rect x="68.28125" y="228" width="47.703125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="115" y="241" text-anchor="end">Митино</text>
+                    <text x="115" y="241" data-station-id="154" text-anchor="end">Митино</text>
                 </g>
                 <g>
                     <rect x="7.96875" y="208" width="108.015625" height="17" rx="3" ry="3" fill="#fff"
