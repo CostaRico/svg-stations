@@ -428,7 +428,7 @@
                 <circle cx="583" cy="35" r="5" fill="#ACADAF"></circle>
                 <circle cx="583" cy="55" r="5" fill="#ACADAF"></circle>
                 <circle stroke="#fff" cx="583" cy="74" r="5" fill="#ACADAF"></circle>
-                <circle stroke="#fff" cx="583" cy="114" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="583" cy="114" r="5" fill="#ACADAF" data-station-id="119"></circle>
                 <circle cx="583" cy="139" r="5" fill="#ACADAF"></circle>
                 <circle cx="583" cy="163" r="5" fill="#ACADAF"></circle>
                 <circle cx="583" cy="187" r="5" fill="#ACADAF"></circle>
@@ -449,26 +449,26 @@
                 <circle cx="666" cy="986" r="5" fill="#ACADAF"></circle>
                 <circle cx="665" cy="1015" r="5" fill="#ACADAF"></circle>
                 <circle stroke="#fff" cx="622" cy="1045" r="5" fill="#ACADAF"></circle>
-                <circle stroke="#fff" cx="599" cy="114" r="5" fill="#B1D332"></circle>
-                <circle cx="615" cy="139" r="5" fill="#B1D332"></circle>
-                <circle cx="615" cy="163" r="5" fill="#B1D332"></circle>
-                <circle cx="615" cy="187" r="5" fill="#B1D332"></circle>
-                <circle cx="615" cy="212" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="648" cy="291" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="716" cy="359" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="835" cy="478" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="866" cy="510" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="866" cy="589" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="843" cy="696" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="801" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="821" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="841" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="861" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="881" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="901" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="921" r="5" fill="#B1D332"></circle>
-                <circle cx="843" cy="941" r="5" fill="#B1D332"></circle>
-                <circle stroke="#fff" cx="843" cy="961" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="599" cy="114" r="5" fill="#B1D332" data-station-id="119"></circle>
+                <circle cx="615" cy="139" r="5" fill="#B1D332" data-station-id="6002"></circle>
+                <circle cx="615" cy="163" r="5" fill="#B1D332" data-station-id="6003"></circle>
+                <circle cx="615" cy="187" r="5" fill="#B1D332" data-station-id="191"></circle>
+                <circle cx="615" cy="212" r="5" fill="#B1D332" data-station-id="192"></circle>
+                <circle stroke="#fff" cx="648" cy="291" r="5" fill="#B1D332" data-station-id="194"></circle>
+                <circle stroke="#fff" cx="716" cy="359" r="5" fill="#B1D332" data-station-id="195"></circle>
+                <circle stroke="#fff" cx="835" cy="478" r="5" fill="#B1D332" data-station-id="160"></circle>
+                <circle stroke="#fff" cx="866" cy="510" r="5" fill="#B1D332" data-station-id="162"></circle>
+                <circle stroke="#fff" cx="866" cy="589" r="5" fill="#B1D332" data-station-id="163"></circle>
+                <circle stroke="#fff" cx="843" cy="696" r="5" fill="#B1D332" data-station-id="105"></circle>
+                <circle cx="843" cy="801" r="5" fill="#B1D332" data-station-id="147"></circle>
+                <circle cx="843" cy="821" r="5" fill="#B1D332" data-station-id="148"></circle>
+                <circle cx="843" cy="841" r="5" fill="#B1D332" data-station-id="149"></circle>
+                <circle cx="843" cy="861" r="5" fill="#B1D332" data-station-id="150"></circle>
+                <circle cx="843" cy="881" r="5" fill="#B1D332" data-station-id="151"></circle>
+                <circle cx="843" cy="901" r="5" fill="#B1D332" data-station-id="152"></circle>
+                <circle cx="843" cy="921" r="5" fill="#B1D332" data-station-id="220"></circle>
+                <circle cx="843" cy="941" r="5" fill="#B1D332" data-station-id="219"></circle>
+                <circle stroke="#fff" cx="843" cy="961" r="5" fill="#B1D332" data-station-id="218"></circle>
                 <circle stroke="#fff" cx="806" cy="842" r="5" fill="#5091BB"></circle>
                 <circle cx="726" cy="865" r="5" fill="#5091BB"></circle>
                 <circle stroke="#fff" cx="666" cy="881" r="5" fill="#5091BB"></circle>
@@ -1321,7 +1321,7 @@
                 <g class="">
                     <rect x="610" y="97" width="79.15625" height="30" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="611" y="110" text-anchor="start">
+                    <text x="611" y="110" text-anchor="start" data-station-id="119">
                         <tspan x="611" dy="0">Петровско-</tspan>
                         <tspan x="611" dy="13">Разумовская</tspan>
                     </text>
@@ -1329,94 +1329,94 @@
                 <g class="">
                     <rect x="623" y="130" width="87.59375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="624" y="143" text-anchor="start">Фонвизинская</text>
+                    <text x="624" y="143" text-anchor="start" data-station-id="6002">Фонвизинская</text>
                 </g>
                 <g class="">
                     <rect x="623" y="154" width="66.015625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="624" y="167" text-anchor="start">Бутырская</text>
+                    <text x="624" y="167" text-anchor="start" data-station-id="6003">Бутырская</text>
                 </g>
                 <g class="">
                     <rect x="623" y="178" width="92.734375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="624" y="191" text-anchor="start">Марьина Роща</text>
+                    <text x="624" y="191" text-anchor="start" data-station-id="191">Марьина Роща</text>
                 </g>
                 <g class="">
                     <rect x="623" y="203" width="78.4375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="624" y="216" text-anchor="start">Достоевская</text>
+                    <text x="624" y="216" text-anchor="start" data-station-id="192">Достоевская</text>
                 </g>
                 <g>
                     <rect x="656" y="282" width="51.828125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="657" y="295" text-anchor="start">Трубная</text>
+                    <text x="657" y="295" text-anchor="start" data-station-id="194">Трубная</text>
                 </g>
                 <g class="">
                     <rect x="724" y="350" width="124.90625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="725" y="363" text-anchor="start">Сретенский бульвар</text>
+                    <text x="725" y="363" text-anchor="start" data-station-id="195">Сретенский бульвар</text>
                 </g>
                 <g>
                     <rect x="843" y="469" width="72.328125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="844" y="482" text-anchor="start">Чкаловская</text>
+                    <text x="844" y="482" text-anchor="start" data-station-id="160">Чкаловская</text>
                 </g>
                 <g>
                     <rect x="874" y="501" width="53.609375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="875" y="514" text-anchor="start">Римская</text>
+                    <text x="875" y="514" text-anchor="start" data-station-id="162">Римская</text>
                 </g>
                 <g>
                     <rect x="874" y="580" width="134.546875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="875" y="593" text-anchor="start">Крестьянская застава</text>
+                    <text x="875" y="593" text-anchor="start" data-station-id="163">Крестьянская застава</text>
                 </g>
                 <g>
                     <rect x="852" y="693" width="59.75" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
-                    <text x="853" y="706" text-anchor="start">Дубровка</text>
+                    <text x="853" y="706" text-anchor="start" data-station-id="105">Дубровка</text>
                 </g>
                 <g>
                     <rect x="851" y="792" width="79.078125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="805" text-anchor="start">Кожуховская</text>
+                    <text x="852" y="805" text-anchor="start" data-station-id="147">Кожуховская</text>
                 </g>
                 <g>
                     <rect x="851" y="812" width="65.203125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="825" text-anchor="start">Печатники</text>
+                    <text x="852" y="825" text-anchor="start" data-station-id="148">Печатники</text>
                 </g>
                 <g>
                     <rect x="851" y="832" width="60.625" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
-                    <text x="852" y="845" text-anchor="start">Волжская</text>
+                    <text x="852" y="845" text-anchor="start" data-station-id="149">Волжская</text>
                 </g>
                 <g>
                     <rect x="851" y="852" width="56.390625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="865" text-anchor="start">Люблино</text>
+                    <text x="852" y="865" text-anchor="start" data-station-id="150">Люблино</text>
                 </g>
                 <g>
                     <rect x="851" y="872" width="92.734375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="885" text-anchor="start">Братиславская</text>
+                    <text x="852" y="885" text-anchor="start" data-station-id="151">Братиславская</text>
                 </g>
                 <g>
                     <rect x="851" y="892" width="55.875" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
-                    <text x="852" y="905" text-anchor="start">Марьино</text>
+                    <text x="852" y="905" text-anchor="start" data-station-id="152">Марьино</text>
                 </g>
                 <g>
                     <rect x="851" y="912" width="60.109375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="925" text-anchor="start">Борисово</text>
+                    <text x="852" y="925" text-anchor="start" data-station-id="220">Борисово</text>
                 </g>
                 <g>
                     <rect x="851" y="932" width="83.9375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="945" text-anchor="start">Шипиловская</text>
+                    <text x="852" y="945" text-anchor="start" data-station-id="219">Шипиловская</text>
                 </g>
                 <g>
                     <rect x="851" y="952" width="65.640625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="852" y="965" text-anchor="start">Зябликово</text>
+                    <text x="852" y="965" text-anchor="start" data-station-id="218">Зябликово</text>
                 </g>
                 <g>
                     <rect x="734" y="856" width="76.28125" height="17" rx="3" ry="3" fill="#fff"
