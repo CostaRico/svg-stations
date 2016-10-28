@@ -474,11 +474,11 @@
                 <circle stroke="#fff" cx="666" cy="881" r="5" fill="#5091BB"></circle>
                 <circle stroke="#fff" cx="577" cy="1015" r="5" fill="#85D4F3"></circle>
                 <circle cx="597" cy="1035" r="5" fill="#85D4F3"></circle>
-                <circle stroke="#fff" cx="622" cy="1060" r="5" fill="#85D4F3"></circle>
-                <circle cx="622" cy="1080" r="5" fill="#85D4F3"></circle>
-                <circle cx="622" cy="1100" r="5" fill="#85D4F3"></circle>
-                <circle cx="622" cy="1120" r="5" fill="#85D4F3"></circle>
-                <circle cx="622" cy="1140" r="5" fill="#85D4F3"></circle>
+                <circle stroke="#fff" cx="622" cy="1060" r="5" fill="#85D4F3" data-station-id="170"></circle>
+                <circle cx="622" cy="1080" r="5" fill="#85D4F3" data-station-id="171"></circle>
+                <circle cx="622" cy="1100" r="5" fill="#85D4F3" data-station-id="173"></circle>
+                <circle cx="622" cy="1120" r="5" fill="#85D4F3" data-station-id="172"></circle>
+                <circle cx="622" cy="1140" r="5" fill="#85D4F3" data-station-id="174"></circle>
                 <circle stroke="#fff" cx="716" cy="103" r="5" fill="#F7BED1"></circle>
                 <circle stroke="#fff" cx="583" cy="91" r="5" fill="#F7BED1"></circle>
                 <circle cx="555" cy="95" r="5" fill="#F7BED1"></circle>
@@ -1441,27 +1441,27 @@
                 <g>
                     <rect x="459.203125" y="1051" width="154.78125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="613" y="1064" text-anchor="end">Улица Старокачаловская</text>
+                    <text x="613" y="1064" data-station-id="170" text-anchor="end">Улица Старокачаловская</text>
                 </g>
                 <g>
                     <rect x="486.59375" y="1071" width="127.390625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="613" y="1084" text-anchor="end">Улица Скобелевская</text>
+                    <text x="613" y="1084" data-station-id="171" text-anchor="end">Улица Скобелевская</text>
                 </g>
                 <g>
                     <rect x="440.609375" y="1091" width="173.375" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="613" y="1104" text-anchor="end">Бульвар Адмирала Ушакова</text>
+                    <text x="613" y="1104" data-station-id="173" text-anchor="end">Бульвар Адмирала Ушакова</text>
                 </g>
                 <g>
                     <rect x="510.0625" y="1111" width="103.921875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="613" y="1124" text-anchor="end">Улица Горчакова</text>
+                    <text x="613" y="1124" data-station-id="172" text-anchor="end">Улица Горчакова</text>
                 </g>
                 <g>
                     <rect x="508.609375" y="1131" width="105.390625" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="613" y="1144" text-anchor="end">Бунинская аллея</text>
+                    <text x="613" y="1144" data-station-id="174" text-anchor="end">Бунинская аллея</text>
                 </g>
                 <g>
                     <rect x="498.3125" y="69" width="61.671875" height="17" rx="3" ry="3" fill="#fff"
