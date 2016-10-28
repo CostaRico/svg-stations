@@ -1,0 +1,1593 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1400" height="1211" preserveAspectRatio="none">
+    <g id="transform-wrapper">
+        <g id="scheme-layer">
+
+            <g id="scheme-layer-links" fill="none" stroke-width="8">
+                <path d="M615,187L615,163" stroke="#B1D332"></path>
+                <path d="M615,163L615,139" stroke="#B1D332"></path>
+                <path d="M615,139L615,127L599,114" stroke="#B1D332"></path>
+                <path d="M716,103A350 350 0 0 0 584.4150378563213 90.91733662110431" stroke="#F7BED1"></path>
+                <path d="M583,91A350 350 0 0 0 560.2231378165744 94.31728644572718" stroke="#F7BED1"></path>
+                <path d="M555,95A350 350 0 0 0 530.4133342141178 100.92596079882611" stroke="#F7BED1"></path>
+                <path d="M528,102A350 350 0 0 0 501.29294983601574 110.10758272493212" stroke="#F7BED1"></path>
+                <path d="M501,111A350 350 0 0 0 462.1033250911586 127.14771653407126" stroke="#F7BED1"></path>
+                <path d="M457,130A350 350 0 0 0 373.5126265847083 191.51262658470839" stroke="#F7BED1"></path>
+                <path d="M375,190A350 350 0 0 0 337.8440519687683 233.27516169763445" stroke="#F7BED1"></path>
+                <path d="M340,229A350 350 0 0 0 327.4653012191016 248.3763377447405" stroke="#F7BED1"></path>
+                <path d="M328,246A350 350 0 0 0 317.8911086754465 264" stroke="#F7BED1"></path>
+                <path d="M317,264A350 350 0 0 0 292.10758272493206 319.29294983601596" stroke="#F7BED1"></path>
+                <path d="M293,317A350 350 0 0 0 276.3172864457272 378.2231378165743" stroke="#F7BED1"></path>
+                <path d="M277,377A350 350 0 0 0 278.648339743168 511.76909178621577" stroke="#F7BED1"></path>
+                <path d="M278,513A350 350 0 0 0 365.02620443329033 677.6994260218745" stroke="#F7BED1"></path>
+                <path d="M368,680A350 350 0 0 0 536.3273365401162 778.6035041965988" stroke="#F7BED1"></path>
+                <path d="M537,778A350 350 0 0 0 621 789" stroke="#F7BED1"></path>
+                <path d="M617,788A350 350 0 0 0 705.6726634598838 778.6035041965988" stroke="#F7BED1"></path>
+                <path d="M710,777A350 350 0 0 0 752.1123076955691 763.5143490983755" stroke="#F7BED1"></path>
+                <path d="M752,765A350 350 0 0 0 806.4717424816217 735.8168336547491" stroke="#F7BED1"></path>
+                <path d="M806,735A350 350 0 0 0 841.2621368674431 711.0010865099398" stroke="#F7BED1"></path>
+                <path d="M843,711A350 350 0 0 0 889.1155550916424 663.9756633902887" stroke="#F7BED1"></path>
+                <path d="M891,662A350 350 0 0 0 945.5143490983755 570.1123076955691" stroke="#F7BED1"></path>
+                <path d="M945,572A350 350 0 0 0 955.7066645870624 541.3300966529579" stroke="#F7BED1"></path>
+                <path d="M956,542A350 350 0 0 0 964.5695142066825 505.7831483817907" stroke="#F7BED1"></path>
+                <path d="M964,508A350 350 0 0 0 969.668144332111 469.50450996168036" stroke="#F7BED1"></path>
+                <path d="M970,471A350 350 0 0 0 964.5695142066825 372.2168516182094" stroke="#F7BED1"></path>
+                <path d="M965,372A350 350 0 0 0 949.8924172750679 319.29294983601596" stroke="#F7BED1"></path>
+                <path d="M950,317A350 350 0 0 0 881.1006889170881 204.80428777439965" stroke="#F7BED1"></path>
+                <path d="M880,203A350 350 0 0 0 855.1957122256002 178.89931108291188" stroke="#F7BED1"></path>
+                <path d="M856,179A350 350 0 0 0 826.7248383023655 155.84405196876833" stroke="#F7BED1"></path>
+                <path d="M826,155A350 350 0 0 0 796 135.8911086754465" stroke="#F7BED1"></path>
+                <path d="M794,135A350 350 0 0 0 717.4730745359498 102.55840642158842" stroke="#F7BED1"></path>
+                <path d="M872,179L872,193L863,203" stroke="#EF1E25"></path>
+                <path d="M863,203L839,224" stroke="#EF1E25"></path>
+                <path d="M839,224L820,242" stroke="#EF1E25"></path>
+                <path d="M820,242L798,263" stroke="#EF1E25"></path>
+                <path d="M798,263L781,279" stroke="#EF1E25"></path>
+                <path d="M781,279L741,319" stroke="#EF1E25"></path>
+                <path d="M741,319L716,344" stroke="#EF1E25"></path>
+                <path d="M716,344L653,407" stroke="#EF1E25"></path>
+                <path d="M653,407L607,453" stroke="#EF1E25"></path>
+                <path d="M607,453L516,544" stroke="#EF1E25"></path>
+                <path d="M516,544L491,569" stroke="#EF1E25"></path>
+                <path d="M491,569L462,598" stroke="#EF1E25"></path>
+                <path d="M462,598L417,645" stroke="#EF1E25"></path>
+                <path d="M417,645L368,695" stroke="#EF1E25"></path>
+                <path d="M368,695L348,717" stroke="#EF1E25"></path>
+                <path d="M348,717L326,740" stroke="#EF1E25"></path>
+                <path d="M326,740L308,761" stroke="#EF1E25"></path>
+                <path d="M308,761L308,781" stroke="#EF1E25"></path>
+                <path d="M308,781L308,801" stroke="#EF1E25"></path>
+                <path d="M308,801L308,821" stroke="#EF1E25"></path>
+                <path d="M308,821L308,841" stroke="#EF1E25"></path>
+                <path d="M457,15L457,35" stroke="#029A55"></path>
+                <path d="M457,35L457,115" stroke="#029A55"></path>
+                <path d="M457,115L457,154" stroke="#029A55"></path>
+                <path d="M457,154L457,175" stroke="#029A55"></path>
+                <path d="M457,175L457,196" stroke="#029A55"></path>
+                <path d="M457,196L457,220L516,266" stroke="#029A55"></path>
+                <path d="M516,266L516,352" stroke="#029A55"></path>
+                <path d="M516,352L516,377" stroke="#029A55"></path>
+                <path d="M516,377L607,468" stroke="#029A55"></path>
+                <path d="M607,468L679,540" stroke="#029A55"></path>
+                <path d="M679,540L758,619" stroke="#029A55"></path>
+                <path d="M758,619L806,667L806,720" stroke="#029A55"></path>
+                <path d="M806,720L806,791" stroke="#029A55"></path>
+                <path d="M806,791L806,808" stroke="#029A55"></path>
+                <path d="M806,808L806,827" stroke="#029A55"></path>
+                <path d="M806,827L806,887" stroke="#029A55"></path>
+                <path d="M806,887L806,907" stroke="#029A55"></path>
+                <path d="M806,907L806,927" stroke="#029A55"></path>
+                <path d="M806,927L806,947" stroke="#029A55"></path>
+                <path d="M806,947L826,961" stroke="#029A55"></path>
+                <path d="M826,961L826,981" stroke="#029A55"></path>
+                <path d="M962,251L962,271" stroke="#0252A2"></path>
+                <path d="M962,271L962,291" stroke="#0252A2"></path>
+                <path d="M962,291L962,321L950,333" stroke="#0252A2"></path>
+                <path d="M950,333L930,353" stroke="#0252A2"></path>
+                <path d="M930,353L890,393" stroke="#0252A2"></path>
+                <path d="M890,393L865,418" stroke="#0252A2"></path>
+                <path d="M865,418L835,448" stroke="#0252A2"></path>
+                <path d="M835,448L800,483L607,483" stroke="#0252A2"></path>
+                <path d="M607,483L592,483L546,529L516,529" stroke="#0252A2"></path>
+                <path d="M516,529L456,469" stroke="#0252A2"></path>
+                <path d="M456,469L408,421" stroke="#0252A2"></path>
+                <path d="M408,421L381,421L258,549L186,549" stroke="#0252A2"></path>
+                <path d="M186,549L154,549L124,520L124,406" stroke="#0252A2"></path>
+                <path d="M124,406L124,357" stroke="#0252A2"></path>
+                <path d="M124,357L124,337" stroke="#0252A2"></path>
+                <path d="M124,337L124,317" stroke="#0252A2"></path>
+                <path d="M124,317L124,297" stroke="#0252A2"></path>
+                <path d="M124,297L124,277" stroke="#0252A2"></path>
+                <path d="M124,372L149,406" stroke="#019EE0"></path>
+                <path d="M149,406L149,426" stroke="#019EE0"></path>
+                <path d="M149,426L149,446" stroke="#019EE0"></path>
+                <path d="M149,446L149,466" stroke="#019EE0"></path>
+                <path d="M149,466L149,502L172,523L255,523L278,496" stroke="#019EE0"></path>
+                <path d="M278,496L329,444" stroke="#019EE0"></path>
+                <path d="M329,444L380,391L408,391" stroke="#019EE0"></path>
+                <path d="M408,391L456,439" stroke="#019EE0"></path>
+                <path d="M408,391L375,360" stroke="#019EE0"></path>
+                <path d="M456,439L486,469" stroke="#019EE0"></path>
+                <path d="M486,469L516,499" stroke="#019EE0"></path>
+                <path d="M375,360L277,360" stroke="#019EE0"></path>
+                <path d="M462,583A215 215 0 0 0 536.9928073748061 636.9085434922747" stroke="#745C2F"></path>
+                <path d="M537,637A215 215 0 0 0 669.364476683931 648.4895639288256" stroke="#745C2F"></path>
+                <path d="M666,649A215 215 0 0 0 759.1993360826059 603.6995552705803" stroke="#745C2F"></path>
+                <path d="M758,604A215 215 0 0 0 803.3303406736316 552.9326418101391" stroke="#745C2F"></path>
+                <path d="M801,555A215 215 0 0 0 834.8222075041788 461.4736196025455" stroke="#745C2F"></path>
+                <path d="M835,463A215 215 0 0 0 778.2410458481218 292.3703525865629" stroke="#745C2F"></path>
+                <path d="M781,294A215 215 0 0 0 715.2497965596516 245.75928004567908" stroke="#745C2F"></path>
+                <path d="M716,246A215 215 0 0 0 579.9760659940428 227.95015555875227" stroke="#745C2F"></path>
+                <path d="M583,227A215 215 0 0 0 513.4999999999999 252.80453818634575" stroke="#745C2F"></path>
+                <path d="M516,251A215 215 0 0 0 449.293365339832 309.6097700223097" stroke="#745C2F"></path>
+                <path d="M449,310A215 215 0 0 0 408.0923652205624 409.0777832935859" stroke="#745C2F"></path>
+                <path d="M408,406A215 215 0 0 0 463.75895415187836 585.6296474134372" stroke="#745C2F"></path>
+                <path d="M716,15L716,35" stroke="#FBAA33"></path>
+                <path d="M716,35L716,55" stroke="#FBAA33"></path>
+                <path d="M716,55L716,87" stroke="#FBAA33"></path>
+                <path d="M716,87L716,128" stroke="#FBAA33"></path>
+                <path d="M716,128L716,150" stroke="#FBAA33"></path>
+                <path d="M716,150L716,173" stroke="#FBAA33"></path>
+                <path d="M716,173L716,231" stroke="#FBAA33"></path>
+                <path d="M716,231L716,269" stroke="#FBAA33"></path>
+                <path d="M716,269L716,329" stroke="#FBAA33"></path>
+                <path d="M716,329L716,470" stroke="#FBAA33"></path>
+                <path d="M716,470L716,473L679,510" stroke="#FBAA33"></path>
+                <path d="M679,510L537,652" stroke="#FBAA33"></path>
+                <path d="M537,652L537,709" stroke="#FBAA33"></path>
+                <path d="M537,709L537,795" stroke="#FBAA33"></path>
+                <path d="M537,795L537,817" stroke="#FBAA33"></path>
+                <path d="M537,817L537,842" stroke="#FBAA33"></path>
+                <path d="M537,842L537,867" stroke="#FBAA33"></path>
+                <path d="M537,867L537,892" stroke="#FBAA33"></path>
+                <path d="M537,892L537,917" stroke="#FBAA33"></path>
+                <path d="M537,917L537,942" stroke="#FBAA33"></path>
+                <path d="M537,942L537,967" stroke="#FBAA33"></path>
+                <path d="M537,967L556,983" stroke="#FBAA33"></path>
+                <path d="M556,983L577,1000" stroke="#FBAA33"></path>
+                <path d="M353,15L353,35" stroke="#B61D8E"></path>
+                <path d="M353,35L353,55" stroke="#B61D8E"></path>
+                <path d="M353,55L353,75" stroke="#B61D8E"></path>
+                <path d="M353,75L353,95" stroke="#B61D8E"></path>
+                <path d="M353,95L353,229" stroke="#B61D8E"></path>
+                <path d="M353,229L331,264" stroke="#B61D8E"></path>
+                <path d="M331,264L390,264L411,285" stroke="#B61D8E"></path>
+                <path d="M411,285L430,305" stroke="#B61D8E"></path>
+                <path d="M430,305L449,325" stroke="#B61D8E"></path>
+                <path d="M449,325L516,392" stroke="#B61D8E"></path>
+                <path d="M516,392L653,392" stroke="#B61D8E"></path>
+                <path d="M653,392L716,455" stroke="#B61D8E"></path>
+                <path d="M716,455L801,540" stroke="#B61D8E"></path>
+                <path d="M801,540L866,605" stroke="#B61D8E"></path>
+                <path d="M866,605L893,634" stroke="#B61D8E"></path>
+                <path d="M893,634L942,684" stroke="#B61D8E"></path>
+                <path d="M942,684L962,704" stroke="#B61D8E"></path>
+                <path d="M962,704L982,724" stroke="#B61D8E"></path>
+                <path d="M982,724L982,744" stroke="#B61D8E"></path>
+                <path d="M982,744L982,764" stroke="#B61D8E"></path>
+                <path d="M1011,416L991,436" stroke="#FFD803"></path>
+                <path d="M1031,396L1011,416" stroke="#FFD803"></path>
+                <path d="M991,436L970,457" stroke="#FFD803"></path>
+                <path d="M970,457L936,491" stroke="#FFD803"></path>
+                <path d="M936,491L902,525L866,525" stroke="#FFD803"></path>
+                <path d="M866,525L801,525" stroke="#FFD803"></path>
+                <path d="M801,525L679,525" stroke="#FFD803"></path>
+                <path d="M583,15L583,35" stroke="#ACADAF"></path>
+                <path d="M583,35L583,55" stroke="#ACADAF"></path>
+                <path d="M583,55L583,74" stroke="#ACADAF"></path>
+                <path d="M583,74L583,114" stroke="#ACADAF"></path>
+                <path d="M583,114L583,139" stroke="#ACADAF"></path>
+                <path d="M583,139L583,163" stroke="#ACADAF"></path>
+                <path d="M583,163L583,187" stroke="#ACADAF"></path>
+                <path d="M583,187L583,212" stroke="#ACADAF"></path>
+                <path d="M583,212L583,242L632,291" stroke="#ACADAF"></path>
+                <path d="M632,291L516,407" stroke="#ACADAF"></path>
+                <path d="M516,407L516,514" stroke="#ACADAF"></path>
+                <path d="M516,514L621,619" stroke="#ACADAF"></path>
+                <path d="M621,619L666,664" stroke="#ACADAF"></path>
+                <path d="M666,664L666,709" stroke="#ACADAF"></path>
+                <path d="M666,709L666,811" stroke="#ACADAF"></path>
+                <path d="M666,811L666,831" stroke="#ACADAF"></path>
+                <path d="M666,831L666,856" stroke="#ACADAF"></path>
+                <path d="M666,856L666,896" stroke="#ACADAF"></path>
+                <path d="M666,896L666,916" stroke="#ACADAF"></path>
+                <path d="M666,916L666,936" stroke="#ACADAF"></path>
+                <path d="M666,936L666,956" stroke="#ACADAF"></path>
+                <path d="M666,956L666,986" stroke="#ACADAF"></path>
+                <path d="M666,986L665,1015" stroke="#ACADAF"></path>
+                <path d="M665,1015L622,1045" stroke="#ACADAF"></path>
+                <path d="M648,291L716,359" stroke="#B1D332"></path>
+                <path d="M615,212L615,259L648,291" stroke="#B1D332"></path>
+                <path d="M716,359L835,478" stroke="#B1D332"></path>
+                <path d="M835,478L866,510" stroke="#B1D332"></path>
+                <path d="M866,510L866,589" stroke="#B1D332"></path>
+                <path d="M866,589L866,645L843,671L843,696" stroke="#B1D332"></path>
+                <path d="M843,696L843,801" stroke="#B1D332"></path>
+                <path d="M843,801L843,821" stroke="#B1D332"></path>
+                <path d="M843,821L843,841" stroke="#B1D332"></path>
+                <path d="M843,841L843,861" stroke="#B1D332"></path>
+                <path d="M843,861L843,881" stroke="#B1D332"></path>
+                <path d="M843,881L843,901" stroke="#B1D332"></path>
+                <path d="M843,901L843,921" stroke="#B1D332"></path>
+                <path d="M806,842L726,865" stroke="#5091BB"></path>
+                <path d="M726,865L666,881" stroke="#5091BB"></path>
+                <path d="M622,1060L622,1080" stroke="#85D4F3"></path>
+                <path d="M597,1035L622,1060" stroke="#85D4F3"></path>
+                <path d="M622,1080L622,1100" stroke="#85D4F3"></path>
+                <path d="M622,1100L622,1120" stroke="#85D4F3"></path>
+                <path d="M622,1120L622,1140" stroke="#85D4F3"></path>
+                <path d="M124,277L124,257" stroke="#0252A2"></path>
+                <path d="M124,257L124,237" stroke="#0252A2"></path>
+                <path d="M124,237L124,217" stroke="#0252A2"></path>
+                <path d="M615,187L615,212" stroke="#B1D332"></path>
+                <path d="M843,921L843,941" stroke="#B1D332"></path>
+                <path d="M843,941L843,961" stroke="#B1D332"></path>
+                <path d="M982,764L982,784" stroke="#B61D8E"></path>
+                <path d="M982,784L982,804" stroke="#B61D8E"></path>
+                <path d="M577,1015L597,1035" stroke="#85D4F3"></path>
+                <path d="M375,375L186,566" stroke="#FFD803"></path>
+            </g>
+            <g id="scheme-layer-transfers" fill="rgba(255,255,255,0.6)" stroke="#000" stroke-width="2">
+                <path d="M583,121L599,121A7 7 0 0 0 599 107L583,107A7 7 0 0 0 583 121"></path>
+                <path d="M590,74L590,91A7 7 0 0 1 576 91L576,74A7 7 0 0 1 590 74"></path>
+                <path d="M723,87L723,103A7 7 0 0 1 709 103L709,87A7 7 0 0 1 723 87"></path>
+                <path d="M856,186L872,186A7 7 0 0 0 872 172L856,172A7 7 0 0 0 856 186"></path>
+                <path d="M863,210L880,210A7 7 0 0 0 880 196L863,196A7 7 0 0 0 863 210"></path>
+                <path d="M957,317L957,333A7 7 0 0 1 943 333L943,317A7 7 0 0 1 957 317"></path>
+                <path d="M977,457L977,471A7 7 0 0 1 963 471L963,457A7 7 0 0 1 977 457"></path>
+                <path d="M850,696L850,711A7 7 0 0 1 836 711L836,696A7 7 0 0 1 850 696"></path>
+                <path d="M813,720L813,735A7 7 0 0 1 799 735L799,720A7 7 0 0 1 813 720"></path>
+                <path d="M544,778L544,795A7 7 0 0 1 530 795L530,778A7 7 0 0 1 544 778"></path>
+                <path d="M375,680L375,695A7 7 0 0 1 361 695L361,680A7 7 0 0 1 375 680"></path>
+                <path d="M285,496L285,513A7 7 0 0 1 271 513L271,496A7 7 0 0 1 285 496"></path>
+                <path d="M284,360L284,377A7 7 0 0 1 270 377L270,360A7 7 0 0 1 284 360"></path>
+                <path d="M317,271L331,271A7 7 0 0 0 331 257L317,257A7 7 0 0 0 317 271"></path>
+                <path d="M340,236L353,236A7 7 0 0 0 353 222L340,222A7 7 0 0 0 340 236"></path>
+                <path d="M464,115L464,130A7 7 0 0 1 450 130L450,115A7 7 0 0 1 464 115"></path>
+                <path d="M544,637L544,652A7 7 0 0 1 530 652L530,637A7 7 0 0 1 544 637"></path>
+                <path d="M632,298L648,298A7 7 0 0 0 648 284L632,284A7 7 0 0 0 632 298"></path>
+                <path d="M590,212L590,227A7 7 0 0 1 576 227L576,212A7 7 0 0 1 590 212"></path>
+                <path d="M723,329L723,359A7 7 0 0 1 709 359L709,329A7 7 0 0 1 723 329"></path>
+                <path d="M808,525L808,555A7 7 0 0 1 794 555L794,525A7 7 0 0 1 808 525"></path>
+                <path d="M686,510L686,540A7 7 0 0 1 672 540L672,510A7 7 0 0 1 686 510"></path>
+                <path d="M415,391L415,421A7 7 0 0 1 401 421L401,391A7 7 0 0 1 415 391"></path>
+                <path d="M723,231L723,246A7 7 0 0 1 709 246L709,231A7 7 0 0 1 723 231"></path>
+                <path d="M456,310L456,325A7 7 0 0 1 442 325L442,310A7 7 0 0 1 456 310"></path>
+                <path d="M469,583L469,598A7 7 0 0 1 455 598L455,583A7 7 0 0 1 469 583"></path>
+                <path d="M660,392L660,407A7 7 0 0 1 646 407L646,392A7 7 0 0 1 660 392"></path>
+                <path d="M673,881L673,896A7 7 0 0 1 659 896L659,881A7 7 0 0 1 673 881"></path>
+                <path d="M629,1045L629,1060A7 7 0 0 1 615 1060L615,1045A7 7 0 0 1 629 1045"></path>
+                <path d="M765,604L765,619A7 7 0 0 1 751 619L751,604A7 7 0 0 1 765 604"></path>
+                <path d="M788,279L788,294A7 7 0 0 1 774 294L774,279A7 7 0 0 1 788 279"></path>
+                <path d="M131,357L131,372A7 7 0 0 1 117 372L117,357A7 7 0 0 1 131 357"></path>
+                <path d="M873,510L873,525A7 7 0 0 1 859 525L859,510A7 7 0 0 1 873 510"></path>
+                <path d="M523,377L523,407A7 7 0 0 1 509 407L509,377A7 7 0 0 1 523 377"></path>
+                <path d="M523,499L523,544A7 7 0 0 1 509 544L509,499A7 7 0 0 1 523 499"></path>
+                <path d="M813,827L813,842A7 7 0 0 1 799 842L799,827A7 7 0 0 1 813 827"></path>
+                <path d="M723,455L723,470A7 7 0 0 1 709 470L709,455A7 7 0 0 1 723 455"></path>
+                <path d="M873,589L873,605A7 7 0 0 1 859 605L859,589A7 7 0 0 1 873 589"></path>
+                <path d="M523,251L523,266A7 7 0 0 1 509 266L509,251A7 7 0 0 1 523 251"></path>
+                <path d="M614,453L614,483A7 7 0 0 1 600 483L600,453A7 7 0 0 1 614 453"></path>
+                <path d="M842,448L842,478A7 7 0 0 1 828 478L828,448A7 7 0 0 1 842 448"></path>
+                <path d="M673,649L673,664A7 7 0 0 1 659 664L659,649A7 7 0 0 1 673 649"></path>
+                <path d="M826,968L843,968A7 7 0 0 0 843 954L826,954A7 7 0 0 0 826 968"></path>
+                <path d="M584,1000L584,1015A7 7 0 0 1 570 1015L570,1000A7 7 0 0 1 584 1000"></path>
+                <path d="M382,360L382,375A7 7 0 0 1 368 375L368,360A7 7 0 0 1 382 360"></path>
+                <path d="M193,549L193,566A7 7 0 0 1 179 566L179,549A7 7 0 0 1 193 549"></path>
+            </g>
+            <g id="scheme-layer-stations" stroke="#000" stroke-width="1" stroke-opacity="0.5">
+                <circle stroke="#fff" cx="872" cy="179" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="863" cy="203" r="5" fill="#EF1E25"></circle>
+                <circle cx="839" cy="224" r="5" fill="#EF1E25"></circle>
+                <circle cx="820" cy="242" r="5" fill="#EF1E25"></circle>
+                <circle cx="798" cy="263" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="781" cy="279" r="5" fill="#EF1E25"></circle>
+                <circle cx="741" cy="319" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="716" cy="344" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="653" cy="407" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="607" cy="453" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="516" cy="544" r="5" fill="#EF1E25"></circle>
+                <circle cx="491" cy="569" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="462" cy="598" r="5" fill="#EF1E25"></circle>
+                <circle cx="417" cy="645" r="5" fill="#EF1E25"></circle>
+                <circle stroke="#fff" cx="368" cy="695" r="5" fill="#EF1E25"></circle>
+                <circle cx="348" cy="717" r="5" fill="#EF1E25"></circle>
+                <circle cx="326" cy="740" r="5" fill="#EF1E25"></circle>
+                <circle cx="308" cy="761" r="5" fill="#EF1E25"></circle>
+                <circle cx="308" cy="781" r="5" fill="#EF1E25"></circle>
+                <circle cx="308" cy="801" r="5" fill="#EF1E25"></circle>
+                <circle cx="308" cy="821" r="5" fill="#EF1E25"></circle>
+                <circle cx="308" cy="841" r="5" fill="#EF1E25"></circle>
+                <circle cx="457" cy="15" r="5" fill="#029A55"></circle>
+                <circle cx="457" cy="35" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="457" cy="115" r="5" fill="#029A55"></circle>
+                <circle cx="457" cy="154" r="5" fill="#029A55"></circle>
+                <circle cx="457" cy="175" r="5" fill="#029A55"></circle>
+                <circle cx="457" cy="196" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="516" cy="266" r="5" fill="#029A55"></circle>
+                <circle cx="516" cy="352" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="516" cy="377" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="607" cy="468" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="679" cy="540" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="758" cy="619" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="806" cy="720" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="791" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="808" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="806" cy="827" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="887" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="907" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="927" r="5" fill="#029A55"></circle>
+                <circle cx="806" cy="947" r="5" fill="#029A55"></circle>
+                <circle stroke="#fff" cx="826" cy="961" r="5" fill="#029A55"></circle>
+                <circle cx="826" cy="981" r="5" fill="#029A55"></circle>
+                <circle cx="962" cy="251" r="5" fill="#0252A2"></circle>
+                <circle cx="962" cy="271" r="5" fill="#0252A2"></circle>
+                <circle cx="962" cy="291" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="950" cy="333" r="5" fill="#0252A2"></circle>
+                <circle cx="930" cy="353" r="5" fill="#0252A2"></circle>
+                <circle cx="890" cy="393" r="5" fill="#0252A2"></circle>
+                <circle cx="865" cy="418" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="835" cy="448" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="607" cy="483" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="516" cy="529" r="5" fill="#0252A2"></circle>
+                <circle cx="456" cy="469" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="408" cy="421" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="186" cy="549" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="406" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="124" cy="357" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="337" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="317" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="297" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="277" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="257" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="237" r="5" fill="#0252A2"></circle>
+                <circle cx="124" cy="217" r="5" fill="#0252A2"></circle>
+                <circle stroke="#fff" cx="124" cy="372" r="5" fill="#019EE0"></circle>
+                <circle cx="149" cy="406" r="5" fill="#019EE0"></circle>
+                <circle cx="149" cy="426" r="5" fill="#019EE0"></circle>
+                <circle cx="149" cy="446" r="5" fill="#019EE0"></circle>
+                <circle cx="149" cy="466" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="278" cy="496" r="5" fill="#019EE0"></circle>
+                <circle cx="329" cy="444" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="408" cy="391" r="5" fill="#019EE0"></circle>
+                <circle cx="456" cy="439" r="5" fill="#019EE0"></circle>
+                <circle cx="486" cy="469" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="516" cy="499" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="375" cy="360" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="277" cy="360" r="5" fill="#019EE0"></circle>
+                <circle stroke="#fff" cx="462" cy="583" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="537" cy="637" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="666" cy="649" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="758" cy="604" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="801" cy="555" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="835" cy="463" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="781" cy="294" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="716" cy="246" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="583" cy="227" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="516" cy="251" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="449" cy="310" r="5" fill="#745C2F"></circle>
+                <circle stroke="#fff" cx="408" cy="406" r="5" fill="#745C2F"></circle>
+                <circle cx="716" cy="15" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="35" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="55" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="716" cy="87" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="128" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="150" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="173" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="716" cy="231" r="5" fill="#FBAA33"></circle>
+                <circle cx="716" cy="269" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="716" cy="329" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="716" cy="470" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="679" cy="510" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="537" cy="652" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="709" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="537" cy="795" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="817" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="842" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="867" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="892" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="917" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="942" r="5" fill="#FBAA33"></circle>
+                <circle cx="537" cy="967" r="5" fill="#FBAA33"></circle>
+                <circle cx="556" cy="983" r="5" fill="#FBAA33"></circle>
+                <circle stroke="#fff" cx="577" cy="1000" r="5" fill="#FBAA33"></circle>
+                <circle cx="353" cy="15" r="5" fill="#B61D8E"></circle>
+                <circle cx="353" cy="35" r="5" fill="#B61D8E"></circle>
+                <circle cx="353" cy="55" r="5" fill="#B61D8E"></circle>
+                <circle cx="353" cy="75" r="5" fill="#B61D8E"></circle>
+                <circle cx="353" cy="95" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="353" cy="229" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="331" cy="264" r="5" fill="#B61D8E"></circle>
+                <circle cx="411" cy="285" r="5" fill="#B61D8E"></circle>
+                <circle cx="430" cy="305" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="449" cy="325" r="5" fill="#B61D8E" data-station-id="6"></circle>
+                <circle stroke="#fff" data-station-id="5" cx="516" cy="392" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="653" cy="392" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="716" cy="455" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" data-station-id="6" cx="801" cy="540" r="5" fill="#B61D8E"></circle>
+                <circle stroke="#fff" cx="866" cy="605" r="5" fill="#B61D8E"></circle>
+                <circle cx="893" cy="634" r="5" fill="#B61D8E"></circle>
+                <circle cx="942" cy="684" r="5" fill="#B61D8E"></circle>
+                <circle cx="962" cy="704" r="5" fill="#B61D8E"></circle>
+                <circle cx="982" cy="724" r="5" fill="#B61D8E"></circle>
+                <circle cx="982" cy="744" r="5" fill="#B61D8E"></circle>
+                <circle cx="982" cy="764" r="5" fill="#B61D8E"></circle>
+                <circle cx="982" cy="784" r="5" fill="#B61D8E"></circle>
+                <circle cx="982" cy="804" r="5" fill="#B61D8E"></circle>
+                <circle cx="1031" cy="396" r="5" fill="#FFD803"></circle>
+                <circle cx="1011" cy="416" r="5" fill="#FFD803"></circle>
+                <circle cx="991" cy="436" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="970" cy="457" r="5" fill="#FFD803"></circle>
+                <circle cx="936" cy="491" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="866" cy="525" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="801" cy="525" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="679" cy="525" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="375" cy="375" r="5" fill="#FFD803"></circle>
+                <circle stroke="#fff" cx="186" cy="566" r="5" fill="#FFD803"></circle>
+                <circle cx="583" cy="15" r="5" fill="#ACADAF"></circle>
+                <circle cx="583" cy="35" r="5" fill="#ACADAF"></circle>
+                <circle cx="583" cy="55" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="583" cy="74" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="583" cy="114" r="5" fill="#ACADAF"></circle>
+                <circle cx="583" cy="139" r="5" fill="#ACADAF"></circle>
+                <circle cx="583" cy="163" r="5" fill="#ACADAF"></circle>
+                <circle cx="583" cy="187" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="583" cy="212" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="632" cy="291" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="516" cy="407" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="516" cy="514" r="5" fill="#ACADAF"></circle>
+                <circle cx="621" cy="619" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="666" cy="664" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="709" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="811" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="831" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="856" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="666" cy="896" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="916" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="936" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="956" r="5" fill="#ACADAF"></circle>
+                <circle cx="666" cy="986" r="5" fill="#ACADAF"></circle>
+                <circle cx="665" cy="1015" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="622" cy="1045" r="5" fill="#ACADAF"></circle>
+                <circle stroke="#fff" cx="599" cy="114" r="5" fill="#B1D332"></circle>
+                <circle cx="615" cy="139" r="5" fill="#B1D332"></circle>
+                <circle cx="615" cy="163" r="5" fill="#B1D332"></circle>
+                <circle cx="615" cy="187" r="5" fill="#B1D332"></circle>
+                <circle cx="615" cy="212" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="648" cy="291" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="716" cy="359" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="835" cy="478" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="866" cy="510" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="866" cy="589" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="843" cy="696" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="801" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="821" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="841" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="861" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="881" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="901" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="921" r="5" fill="#B1D332"></circle>
+                <circle cx="843" cy="941" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="843" cy="961" r="5" fill="#B1D332"></circle>
+                <circle stroke="#fff" cx="806" cy="842" r="5" fill="#5091BB"></circle>
+                <circle cx="726" cy="865" r="5" fill="#5091BB"></circle>
+                <circle stroke="#fff" cx="666" cy="881" r="5" fill="#5091BB"></circle>
+                <circle stroke="#fff" cx="577" cy="1015" r="5" fill="#85D4F3"></circle>
+                <circle cx="597" cy="1035" r="5" fill="#85D4F3"></circle>
+                <circle stroke="#fff" cx="622" cy="1060" r="5" fill="#85D4F3"></circle>
+                <circle cx="622" cy="1080" r="5" fill="#85D4F3"></circle>
+                <circle cx="622" cy="1100" r="5" fill="#85D4F3"></circle>
+                <circle cx="622" cy="1120" r="5" fill="#85D4F3"></circle>
+                <circle cx="622" cy="1140" r="5" fill="#85D4F3"></circle>
+                <circle stroke="#fff" cx="716" cy="103" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="583" cy="91" r="5" fill="#F7BED1"></circle>
+                <circle cx="555" cy="95" r="5" fill="#F7BED1"></circle>
+                <circle cx="528" cy="102" r="5" fill="#F7BED1"></circle>
+                <circle cx="501" cy="111" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="457" cy="130" r="5" fill="#F7BED1"></circle>
+                <circle cx="375" cy="190" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="340" cy="229" r="5" fill="#F7BED1"></circle>
+                <circle cx="328" cy="246" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="317" cy="264" r="5" fill="#F7BED1"></circle>
+                <circle cx="293" cy="317" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="277" cy="377" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="278" cy="513" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="368" cy="680" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="537" cy="778" r="5" fill="#F7BED1"></circle>
+                <circle cx="617" cy="788" r="5" fill="#F7BED1"></circle>
+                <circle cx="710" cy="777" r="5" fill="#F7BED1"></circle>
+                <circle cx="752" cy="765" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="806" cy="735" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="843" cy="711" r="5" fill="#F7BED1"></circle>
+                <circle cx="891" cy="662" r="5" fill="#F7BED1"></circle>
+                <circle cx="945" cy="572" r="5" fill="#F7BED1"></circle>
+                <circle cx="956" cy="542" r="5" fill="#F7BED1"></circle>
+                <circle cx="964" cy="508" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="970" cy="471" r="5" fill="#F7BED1"></circle>
+                <circle cx="965" cy="372" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="950" cy="317" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="880" cy="203" r="5" fill="#F7BED1"></circle>
+                <circle stroke="#fff" cx="856" cy="179" r="5" fill="#F7BED1"></circle>
+                <circle cx="826" cy="155" r="5" fill="#F7BED1"></circle>
+                <circle cx="794" cy="135" r="5" fill="#F7BED1"></circle>
+            </g>
+            <g id="scheme-layer-labels" fill="#000" font-size="13" font-family="arial,sans-serif">
+                <g>
+                    <rect x="880" y="170" width="142.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="881" y="183" text-anchor="start">Бульвар Рокоссовского</text>
+                </g>
+                <g class="">
+                    <rect x="770.375" y="194" width="84.609375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="854" y="207" text-anchor="end">Черкизовская</text>
+                </g>
+                <g>
+                    <rect x="847" y="215" width="162.671875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="848" y="228" text-anchor="start">Преображенская площадь</text>
+                </g>
+                <g>
+                    <rect x="828" y="233" width="73.140625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="829" y="246" text-anchor="start">Сокольники</text>
+                </g>
+                <g>
+                    <rect x="806" y="254" width="99.328125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="807" y="267" text-anchor="start">Красносельская</text>
+                </g>
+                <g class="">
+                    <rect x="790" y="277" width="96.59375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="791" y="290" text-anchor="start">Комсомольская</text>
+                </g>
+                <g class="">
+                    <rect x="749" y="310" width="99.09375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="750" y="323" text-anchor="start">Красные ворота</text>
+                </g>
+                <g>
+                    <rect x="620.3125" y="335" width="87.671875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="707" y="348" text-anchor="end">Чистые пруды</text>
+                </g>
+                <g class="">
+                    <rect x="593.09375" y="398" width="51.890625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="644" y="411" text-anchor="end">Лубянка</text>
+                </g>
+                <g class="">
+                    <rect x="615" y="444" width="80.3125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="616" y="457" text-anchor="start">Охотный ряд</text>
+                </g>
+                <g class="">
+                    <rect x="345.59375" y="535" width="162.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="548" text-anchor="end">Библиотека имени Ленина</text>
+                </g>
+                <g class="">
+                    <rect x="499" y="560" width="90.828125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="500" y="573" text-anchor="start">Кропоткинская</text>
+                </g>
+                <g class="">
+                    <rect x="363.46875" y="581" width="89.515625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="452" y="594" text-anchor="end">Парк культуры</text>
+                </g>
+                <g class="">
+                    <rect x="329.375" y="636" width="79.609375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="408" y="649" text-anchor="end" fill="#999">Фрунзенская</text>
+                </g>
+                <g class="">
+                    <rect x="285.8125" y="686" width="74.171875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="359" y="699" text-anchor="end">Спортивная</text>
+                </g>
+                <g class="">
+                    <rect x="238.0625" y="708" width="101.921875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="339" y="721" text-anchor="end">Воробьёвы горы</text>
+                </g>
+                <g class="">
+                    <rect x="240.328125" y="731" width="77.65625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="317" y="744" text-anchor="end">Университет</text>
+                </g>
+                <g class="">
+                    <rect x="161.640625" y="752" width="138.34375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="765" text-anchor="end">Проспект Вернадского</text>
+                </g>
+                <g class="">
+                    <rect x="210.453125" y="772" width="89.53125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="785" text-anchor="end">Юго-Западная</text>
+                </g>
+                <g class="">
+                    <rect x="233.609375" y="792" width="66.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="805" text-anchor="end">Тропарёво</text>
+                </g>
+                <g class="">
+                    <rect x="231.296875" y="812" width="68.6875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="825" text-anchor="end">Румянцево</text>
+                </g>
+                <g>
+                    <rect x="231.1875" y="832" width="68.796875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="845" text-anchor="end">Саларьево</text>
+                </g>
+                <g>
+                    <rect x="465" y="6" width="89.546875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="466" y="19" text-anchor="start">Речной вокзал</text>
+                </g>
+                <g>
+                    <rect x="465" y="26" width="101.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="466" y="39" text-anchor="start">Водный стадион</text>
+                </g>
+                <g>
+                    <rect x="377.265625" y="106" width="71.71875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="448" y="119" text-anchor="end">Войковская</text>
+                </g>
+                <g>
+                    <rect x="410.015625" y="145" width="38.96875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="448" y="158" text-anchor="end">Сокол</text>
+                </g>
+                <g>
+                    <rect x="389.75" y="166" width="59.234375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="448" y="179" text-anchor="end">Аэропорт</text>
+                </g>
+                <g>
+                    <rect x="400.34375" y="187" width="48.640625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="448" y="200" text-anchor="end">Динамо</text>
+                </g>
+                <g class="">
+                    <rect x="522" y="248" width="78.96875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="523" y="261" text-anchor="start">Белорусская</text>
+                </g>
+                <g class="">
+                    <rect x="524" y="343" width="73.796875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="525" y="356" text-anchor="start">Маяковская</text>
+                </g>
+                <g class="">
+                    <rect x="450.65625" y="368" width="57.328125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="381" text-anchor="end">Тверская</text>
+                </g>
+                <g class="">
+                    <rect x="615" y="459" width="79.59375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="616" y="472" text-anchor="start">Театральная</text>
+                </g>
+                <g class="">
+                    <rect x="578" y="531" width="93" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="670" y="544" text-anchor="end">Новокузнецкая</text>
+                </g>
+                <g>
+                    <rect x="767" y="602" width="74.625" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="768" y="615" text-anchor="start">Павелецкая</text>
+                </g>
+                <g>
+                    <rect x="705.5625" y="718" width="91.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="796" y="731" text-anchor="end">Автозаводская</text>
+                </g>
+                <g>
+                    <rect x="733.734375" y="782" width="64.34375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="795" text-anchor="end">Технопарк</text>
+                </g>
+                <g>
+                    <rect x="716.421875" y="799" width="81.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="812" text-anchor="end">Коломенская</text>
+                </g>
+                <g>
+                    <rect x="728.53125" y="825" width="68.453125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="796" y="838" text-anchor="end">Каширская</text>
+                </g>
+                <g>
+                    <rect x="696.8125" y="878" width="101.171875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="891" text-anchor="end">Кантемировская</text>
+                </g>
+                <g>
+                    <rect x="733.171875" y="898" width="64.8125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="911" text-anchor="end">Царицыно</text>
+                </g>
+                <g>
+                    <rect x="744.125" y="918" width="53.859375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="931" text-anchor="end">Орехово</text>
+                </g>
+                <g>
+                    <rect x="701.078125" y="938" width="96.90625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="797" y="951" text-anchor="end">Домодедовская</text>
+                </g>
+                <g>
+                    <rect x="698.5625" y="952" width="119.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="817" y="965" text-anchor="end">Красногвардейская</text>
+                </g>
+                <g>
+                    <rect x="723.703125" y="972" width="94.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="817" y="985" text-anchor="end">Алма-Атинская</text>
+                </g>
+                <g>
+                    <rect x="970" y="242" width="75.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="971" y="255" text-anchor="start">Щёлковская</text>
+                </g>
+                <g>
+                    <rect x="970" y="262" width="89.953125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="971" y="275" text-anchor="start">Первомайская</text>
+                </g>
+                <g>
+                    <rect x="970" y="282" width="89.1875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="971" y="295" text-anchor="start">Измайловская</text>
+                </g>
+                <g>
+                    <rect x="958" y="324" width="85.84375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="959" y="337" text-anchor="start">Партизанская</text>
+                </g>
+                <g>
+                    <rect x="938" y="344" width="82.6875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="939" y="357" text-anchor="start">Семёновская</text>
+                </g>
+                <g>
+                    <rect x="898" y="384" width="113.046875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="899" y="397" text-anchor="start">Электрозаводская</text>
+                </g>
+                <g>
+                    <rect x="873" y="409" width="74.046875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="874" y="422" text-anchor="start">Бауманская</text>
+                </g>
+                <g>
+                    <rect x="844" y="446" width="49.890625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="845" y="459" text-anchor="start">Курская</text>
+                </g>
+                <g class="">
+                    <rect x="617" y="472" width="70.328125" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="618" y="485" text-anchor="start">
+                        <tspan x="618" dy="0">Площадь</tspan>
+                        <tspan x="618" dy="13">Революции</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="443.4375" y="520" width="64.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="533" text-anchor="end">Арбатская</text>
+                </g>
+                <g>
+                    <rect x="371.984375" y="460" width="76" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="447" y="473" text-anchor="end">Смоленская</text>
+                </g>
+                <g class="">
+                    <rect x="341.421875" y="397" width="57.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="398" y="410" text-anchor="end">Киевская</text>
+                </g>
+                <g>
+                    <rect x="95.140625" y="548" width="82.84375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="177" y="561" text-anchor="end">Парк Победы</text>
+                </g>
+                <g>
+                    <rect x="42.09375" y="397" width="73.90625" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="410" text-anchor="end">
+                        <tspan x="115" dy="0">Славянский</tspan>
+                        <tspan x="115" dy="13">бульвар</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="41.703125" y="355" width="71.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="112" y="368" text-anchor="end">Кунцевская</text>
+                </g>
+                <g>
+                    <rect x="36.4375" y="328" width="79.546875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="341" text-anchor="end">Молодёжная</text>
+                </g>
+                <g>
+                    <rect x="42.71875" y="308" width="73.265625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="321" text-anchor="end">Крылатское</text>
+                </g>
+                <g>
+                    <rect x="57.78125" y="288" width="58.203125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="301" text-anchor="end">Строгино</text>
+                </g>
+                <g>
+                    <rect x="54.328125" y="268" width="61.65625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="281" text-anchor="end">Мякинино</text>
+                </g>
+                <g>
+                    <rect x="20.140625" y="248" width="95.84375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="261" text-anchor="end">Волоколамская</text>
+                </g>
+                <g>
+                    <rect x="68.28125" y="228" width="47.703125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="241" text-anchor="end">Митино</text>
+                </g>
+                <g>
+                    <rect x="7.96875" y="208" width="108.015625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="115" y="221" text-anchor="end">Пятницкое шоссе</text>
+                </g>
+                <g>
+                    <rect x="157" y="397" width="74.203125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="158" y="410" text-anchor="start">Пионерская</text>
+                </g>
+                <g>
+                    <rect x="157" y="417" width="98.328125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="158" y="430" text-anchor="start">Филёвский парк</text>
+                </g>
+                <g>
+                    <rect x="157" y="437" width="105.03125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="158" y="450" text-anchor="start">Багратионовская</text>
+                </g>
+                <g>
+                    <rect x="157" y="457" width="33.984375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="158" y="470" text-anchor="start">Фили</text>
+                </g>
+                <g class="">
+                    <rect x="287" y="495" width="75.21875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="288" y="508" text-anchor="start">Кутузовская</text>
+                </g>
+                <g class="">
+                    <rect x="337" y="435" width="86.296875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="338" y="448" text-anchor="start">Студенческая</text>
+                </g>
+                <g class="">
+                    <rect x="464" y="430" width="76" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="465" y="443" text-anchor="start">Смоленская</text>
+                </g>
+                <g class="">
+                    <rect x="493.96875" y="460" width="64.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="495" y="473" text-anchor="start">Арбатская</text>
+                </g>
+                <g class="">
+                    <rect x="375.296875" y="490" width="132.6875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="503" text-anchor="end">Александровский сад</text>
+                </g>
+                <g>
+                    <rect x="298" y="335" width="81.46875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="299" y="348" text-anchor="start">Выставочная</text>
+                </g>
+                <g>
+                    <rect x="168.53125" y="351" width="100.453125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="268" y="364" text-anchor="end">Международная</text>
+                </g>
+                <g class="">
+                    <rect x="448.859375" y="635" width="79.125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="527" y="648" text-anchor="end">Октябрьская</text>
+                </g>
+                <g class="">
+                    <rect x="674" y="640" width="90.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="675" y="653" text-anchor="start">Добрынинская</text>
+                </g>
+                <g>
+                    <rect x="729.796875" y="538" width="62.1875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="791" y="551" text-anchor="end">Таганская</text>
+                </g>
+                <g class="">
+                    <rect x="611.46875" y="228" width="94.515625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="705" y="241" text-anchor="end">Проспект Мира</text>
+                </g>
+                <g class="">
+                    <rect x="472.203125" y="218" width="102.78125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="574" y="231" text-anchor="end">Новослободская</text>
+                </g>
+                <g class="">
+                    <rect x="457" y="301" width="121.265625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="458" y="314" text-anchor="start">Краснопресненская</text>
+                </g>
+                <g>
+                    <rect x="724" y="6" width="75.84375" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="725" y="19" text-anchor="start">Медведково</text>
+                </g>
+                <g>
+                    <rect x="724" y="26" width="88.71875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="39" text-anchor="start">Бабушкинская</text>
+                </g>
+                <g>
+                    <rect x="724" y="46" width="61.359375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="59" text-anchor="start">Свиблово</text>
+                </g>
+                <g class="">
+                    <rect x="726" y="86" width="110.59375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="727" y="99" text-anchor="start">Ботанический сад</text>
+                </g>
+                <g>
+                    <rect x="724" y="119" width="37.234375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="132" text-anchor="start">ВДНХ</text>
+                </g>
+                <g class="">
+                    <rect x="723.96875" y="141" width="85.796875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="154" text-anchor="start">Алексеевская</text>
+                </g>
+                <g class="">
+                    <rect x="724" y="164" width="53.359375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="177" text-anchor="start">Рижская</text>
+                </g>
+                <g>
+                    <rect x="628.5625" y="260" width="79.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="707" y="273" text-anchor="end">Сухаревская</text>
+                </g>
+                <g class="">
+                    <rect x="625.59375" y="320" width="82.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="707" y="333" text-anchor="end">Тургеневская</text>
+                </g>
+                <g>
+                    <rect x="725" y="453" width="74.90625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="726" y="466" text-anchor="start">Китай-город</text>
+                </g>
+                <g class="">
+                    <rect x="580.421875" y="508" width="89.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="669" y="521" text-anchor="end">Третьяковская</text>
+                </g>
+                <g class="">
+                    <rect x="445" y="700" width="83.984375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="713" text-anchor="end">Шаболовская</text>
+                </g>
+                <g>
+                    <rect x="405.234375" y="786" width="123.75" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="799" text-anchor="end">Ленинский проспект</text>
+                </g>
+                <g>
+                    <rect x="433.34375" y="808" width="95.640625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="821" text-anchor="end">Академическая</text>
+                </g>
+                <g>
+                    <rect x="441.453125" y="833" width="87.53125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="846" text-anchor="end">Профсоюзная</text>
+                </g>
+                <g>
+                    <rect x="413.96875" y="858" width="115.015625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="871" text-anchor="end">Новые Черёмушки</text>
+                </g>
+                <g>
+                    <rect x="462.515625" y="883" width="66.46875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="896" text-anchor="end">Калужская</text>
+                </g>
+                <g>
+                    <rect x="475.8125" y="908" width="53.171875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="921" text-anchor="end">Беляево</text>
+                </g>
+                <g>
+                    <rect x="471.1875" y="933" width="57.796875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="946" text-anchor="end">Коньково</text>
+                </g>
+                <g>
+                    <rect x="447.375" y="958" width="81.609375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="971" text-anchor="end">Тёплый Стан</text>
+                </g>
+                <g>
+                    <rect x="494.46875" y="974" width="53.515625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="547" y="987" text-anchor="end">Ясенево</text>
+                </g>
+                <g>
+                    <rect x="467.703125" y="991" width="101.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="568" y="1004" text-anchor="end">Новоясеневская</text>
+                </g>
+                <g>
+                    <rect x="275.75" y="6" width="69.234375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="344" y="19" text-anchor="end">Планерная</text>
+                </g>
+                <g>
+                    <rect x="264.390625" y="26" width="80.59375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="344" y="39" text-anchor="end">Сходненская</text>
+                </g>
+                <g>
+                    <rect x="277.671875" y="46" width="67.3125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="344" y="59" text-anchor="end">Тушинская</text>
+                </g>
+                <g>
+                    <rect x="293.671875" y="66" width="51.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="344" y="79" text-anchor="end">Спартак</text>
+                </g>
+                <g>
+                    <rect x="277.140625" y="86" width="67.84375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="344" y="99" text-anchor="end">Щукинская</text>
+                </g>
+                <g>
+                    <rect x="361" y="220" width="79.171875" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="362" y="233" text-anchor="start">
+                        <tspan x="362" dy="0">Октябрьское</tspan>
+                        <tspan x="362" dy="13">поле</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="339" y="255" width="89.609375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="340" y="268" text-anchor="start">Полежаевская</text>
+                </g>
+                <g>
+                    <rect x="352.515625" y="276" width="50.46875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="402" y="289" text-anchor="end">Беговая</text>
+                </g>
+                <g class="">
+                    <rect x="320.71875" y="296" width="101.265625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="421" y="309" text-anchor="end">Улица 1905 года</text>
+                </g>
+                <g class="selected-from-label selected-label">
+                    <rect x="457" y="316" width="81.71875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="458" y="329" data-station-id="6" text-anchor="start" data-station-id="6">Баррикадная</text>
+                </g>
+                <g class="">
+                    <rect x="432.84375" y="383" width="75.140625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="396" text-anchor="end" data-station-id="5">Пушкинская</text>
+                </g>
+                <g class="">
+                    <rect x="661" y="383" width="96.328125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="662" y="396" text-anchor="start">Кузнецкий мост</text>
+                </g>
+                <g>
+                    <rect x="874" y="596" width="86.90625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="875" y="609" text-anchor="start">Пролетарская</text>
+                </g>
+                <g>
+                    <rect x="901" y="625" width="148.046875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="902" y="638" text-anchor="start">Волгоградский проспект</text>
+                </g>
+                <g>
+                    <rect x="950" y="675" width="87.25" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="951" y="688" text-anchor="start">Текстильщики</text>
+                </g>
+                <g>
+                    <rect x="970" y="695" width="65.125" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="971" y="708" text-anchor="start">Кузьминки</text>
+                </g>
+                <g>
+                    <rect x="990" y="715" width="122.015625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="991" y="728" text-anchor="start">Рязанский проспект</text>
+                </g>
+                <g>
+                    <rect x="990" y="735" width="48.171875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="991" y="748" text-anchor="start">Выхино</text>
+                </g>
+                <g>
+                    <rect x="990" y="755" width="152.515625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="991" y="768" text-anchor="start">Лермонтовский проспект</text>
+                </g>
+                <g>
+                    <rect x="990" y="775" width="63.84375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="991" y="788" text-anchor="start">Жулебино</text>
+                </g>
+                <g>
+                    <rect x="990" y="795" width="70.859375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="991" y="808" text-anchor="start">Котельники</text>
+                </g>
+                <g>
+                    <rect x="1039" y="387" width="73.828125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="1040" y="400" text-anchor="start">Новокосино</text>
+                </g>
+                <g>
+                    <rect x="1019" y="407" width="80.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="1020" y="420" text-anchor="start">Новогиреево</text>
+                </g>
+                <g>
+                    <rect x="999" y="427" width="47.015625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="1000" y="440" text-anchor="start">Перово</text>
+                </g>
+                <g>
+                    <rect x="979" y="453" width="121" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="980" y="466" text-anchor="start">Шоссе Энтузиастов</text>
+                </g>
+                <g>
+                    <rect x="943.96875" y="482" width="89.671875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="945" y="495" text-anchor="start">Авиамоторная</text>
+                </g>
+                <g>
+                    <rect x="874" y="516" width="58.578125" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="875" y="529" text-anchor="start">
+                        <tspan x="875" dy="0">Площадь</tspan>
+                        <tspan x="875" dy="13">Ильича</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="706.90625" y="516" width="86.078125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="792" y="529" text-anchor="end">Марксистская</text>
+                </g>
+                <g>
+                    <rect x="313.171875" y="366" width="53.8125" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="366" y="379" text-anchor="end">
+                        <tspan x="366" dy="0">Деловой</tspan>
+                        <tspan x="366" dy="13">центр</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="590.96875" y="6" width="69.40625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="592" y="19" text-anchor="start">Алтуфьево</text>
+                </g>
+                <g class="">
+                    <rect x="591" y="26" width="60.9375" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="592" y="39" text-anchor="start">Бибирево</text>
+                </g>
+                <g>
+                    <rect x="591" y="46" width="61.75" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="592" y="59" text-anchor="start">Отрадное</text>
+                </g>
+                <g>
+                    <rect x="592" y="73" width="69.765625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="593" y="86" text-anchor="start">Владыкино</text>
+                </g>
+                <g>
+                    <rect x="481.484375" y="130" width="93.5" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="574" y="143" text-anchor="end">Тимирязевская</text>
+                </g>
+                <g>
+                    <rect x="494.078125" y="154" width="80.90625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="574" y="167" text-anchor="end">Дмитровская</text>
+                </g>
+                <g>
+                    <rect x="493.625" y="178" width="81.359375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="574" y="191" text-anchor="end">Савёловская</text>
+                </g>
+                <g>
+                    <rect x="477.671875" y="203" width="97.3125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="574" y="216" text-anchor="end">Менделеевская</text>
+                </g>
+                <g class="">
+                    <rect x="518.625" y="282" width="105.359375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="623" y="295" text-anchor="end">Цветной бульвар</text>
+                </g>
+                <g class="">
+                    <rect x="443.296875" y="398" width="64.6875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="411" text-anchor="end">Чеховская</text>
+                </g>
+                <g class="">
+                    <rect x="433.921875" y="505" width="74.0625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="507" y="518" text-anchor="end">Боровицкая</text>
+                </g>
+                <g class="">
+                    <rect x="629" y="610" width="53.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="630" y="623" text-anchor="start">Полянка</text>
+                </g>
+                <g class="">
+                    <rect x="571.515625" y="655" width="86.46875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="668" text-anchor="end">Серпуховская</text>
+                </g>
+                <g>
+                    <rect x="601.46875" y="700" width="56.515625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="713" text-anchor="end">Тульская</text>
+                </g>
+                <g>
+                    <rect x="580.84375" y="802" width="77.15625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="815" text-anchor="end">Нагатинская</text>
+                </g>
+                <g>
+                    <rect x="599.015625" y="822" width="58.96875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="835" text-anchor="end">Нагорная</text>
+                </g>
+                <g>
+                    <rect x="574.96875" y="841" width="82.015625" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="656" y="854" text-anchor="end">
+                        <tspan x="656" dy="0">Нахимовский</tspan>
+                        <tspan x="656" dy="13">проспект</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="550.765625" y="887" width="107.21875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="900" text-anchor="end">Севастопольская</text>
+                </g>
+                <g>
+                    <rect x="572.203125" y="907" width="85.78125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="920" text-anchor="end">Чертановская</text>
+                </g>
+                <g>
+                    <rect x="612.71875" y="927" width="45.265625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="940" text-anchor="end">Южная</text>
+                </g>
+                <g>
+                    <rect x="596.75" y="947" width="61.234375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="960" text-anchor="end">Пражская</text>
+                </g>
+                <g>
+                    <rect x="588.875" y="964" width="68.109375" height="43" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="656" y="977" text-anchor="end">
+                        <tspan x="656" dy="0">Улица</tspan>
+                        <tspan x="656" dy="13">Академика</tspan>
+                        <tspan x="656" dy="13">Янгеля</tspan>
+                    </text>
+                </g>
+                <g>
+                    <rect x="610.265625" y="1006" width="46.71875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="656" y="1019" text-anchor="end">Аннино</text>
+                </g>
+                <g>
+                    <rect x="630" y="1036" width="112.703125" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="631" y="1049" text-anchor="start">
+                        <tspan x="631" dy="0">Бульвар</tspan>
+                        <tspan x="631" dy="13">Дмитрия Донского</tspan>
+                    </text>
+                </g>
+                <g class="">
+                    <rect x="610" y="97" width="79.15625" height="30" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="611" y="110" text-anchor="start">
+                        <tspan x="611" dy="0">Петровско-</tspan>
+                        <tspan x="611" dy="13">Разумовская</tspan>
+                    </text>
+                </g>
+                <g class="">
+                    <rect x="623" y="130" width="87.59375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="624" y="143" text-anchor="start">Фонвизинская</text>
+                </g>
+                <g class="">
+                    <rect x="623" y="154" width="66.015625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="624" y="167" text-anchor="start">Бутырская</text>
+                </g>
+                <g class="">
+                    <rect x="623" y="178" width="92.734375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="624" y="191" text-anchor="start">Марьина Роща</text>
+                </g>
+                <g class="">
+                    <rect x="623" y="203" width="78.4375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="624" y="216" text-anchor="start">Достоевская</text>
+                </g>
+                <g>
+                    <rect x="656" y="282" width="51.828125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="295" text-anchor="start">Трубная</text>
+                </g>
+                <g class="">
+                    <rect x="724" y="350" width="124.90625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="725" y="363" text-anchor="start">Сретенский бульвар</text>
+                </g>
+                <g>
+                    <rect x="843" y="469" width="72.328125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="844" y="482" text-anchor="start">Чкаловская</text>
+                </g>
+                <g>
+                    <rect x="874" y="501" width="53.609375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="875" y="514" text-anchor="start">Римская</text>
+                </g>
+                <g>
+                    <rect x="874" y="580" width="134.546875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="875" y="593" text-anchor="start">Крестьянская застава</text>
+                </g>
+                <g>
+                    <rect x="852" y="693" width="59.75" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="853" y="706" text-anchor="start">Дубровка</text>
+                </g>
+                <g>
+                    <rect x="851" y="792" width="79.078125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="805" text-anchor="start">Кожуховская</text>
+                </g>
+                <g>
+                    <rect x="851" y="812" width="65.203125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="825" text-anchor="start">Печатники</text>
+                </g>
+                <g>
+                    <rect x="851" y="832" width="60.625" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="852" y="845" text-anchor="start">Волжская</text>
+                </g>
+                <g>
+                    <rect x="851" y="852" width="56.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="865" text-anchor="start">Люблино</text>
+                </g>
+                <g>
+                    <rect x="851" y="872" width="92.734375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="885" text-anchor="start">Братиславская</text>
+                </g>
+                <g>
+                    <rect x="851" y="892" width="55.875" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="852" y="905" text-anchor="start">Марьино</text>
+                </g>
+                <g>
+                    <rect x="851" y="912" width="60.109375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="925" text-anchor="start">Борисово</text>
+                </g>
+                <g>
+                    <rect x="851" y="932" width="83.9375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="945" text-anchor="start">Шипиловская</text>
+                </g>
+                <g>
+                    <rect x="851" y="952" width="65.640625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="852" y="965" text-anchor="start">Зябликово</text>
+                </g>
+                <g>
+                    <rect x="734" y="856" width="76.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="735" y="869" text-anchor="start">Варшавская</text>
+                </g>
+                <g>
+                    <rect x="594.109375" y="872" width="63.875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="657" y="885" text-anchor="end">Каховская</text>
+                </g>
+                <g>
+                    <rect x="466.453125" y="1006" width="102.640625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="568" y="1019" text-anchor="end">Битцевский парк</text>
+                </g>
+                <g>
+                    <rect x="501.765625" y="1026" width="87.21875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="588" y="1039" text-anchor="end">Лесопарковая</text>
+                </g>
+                <g>
+                    <rect x="459.203125" y="1051" width="154.78125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="613" y="1064" text-anchor="end">Улица Старокачаловская</text>
+                </g>
+                <g>
+                    <rect x="486.59375" y="1071" width="127.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="613" y="1084" text-anchor="end">Улица Скобелевская</text>
+                </g>
+                <g>
+                    <rect x="440.609375" y="1091" width="173.375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="613" y="1104" text-anchor="end">Бульвар Адмирала Ушакова</text>
+                </g>
+                <g>
+                    <rect x="510.0625" y="1111" width="103.921875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="613" y="1124" text-anchor="end">Улица Горчакова</text>
+                </g>
+                <g>
+                    <rect x="508.609375" y="1131" width="105.390625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="613" y="1144" text-anchor="end">Бунинская аллея</text>
+                </g>
+                <g>
+                    <rect x="498.3125" y="69" width="61.671875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="559" y="82" text-anchor="end">Окружная</text>
+                </g>
+                <g>
+                    <rect x="470.359375" y="82" width="62.625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="532" y="95" text-anchor="end">Лихоборы</text>
+                </g>
+                <g>
+                    <rect x="509" y="108" width="50.859375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="510" y="121" text-anchor="start" fill="#999">Коптево</text>
+                </g>
+                <g>
+                    <rect x="376.421875" y="121" width="72.5625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="448" y="134" text-anchor="end">Балтийская</text>
+                </g>
+                <g>
+                    <rect x="296.359375" y="181" width="70.625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="366" y="194" text-anchor="end">Стрешнево</text>
+                </g>
+                <g>
+                    <rect x="239.8125" y="220" width="92.171875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="331" y="233" text-anchor="end" fill="#999">Панфиловская</text>
+                </g>
+                <g>
+                    <rect x="284" y="237" width="35.984375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="319" y="250" text-anchor="end" fill="#999">Зорге</text>
+                </g>
+                <g>
+                    <rect x="245.125" y="255" width="63.859375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="308" y="268" text-anchor="end">Хорошёво</text>
+                </g>
+                <g>
+                    <rect x="221.578125" y="308" width="63.40625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="284" y="321" text-anchor="end">Шелепиха</text>
+                </g>
+                <g>
+                    <rect x="176.671875" y="368" width="92.3125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="268" y="381" text-anchor="end">Деловой центр</text>
+                </g>
+                <g>
+                    <rect x="306.578125" y="671" width="53.40625" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="359" y="684" text-anchor="end">Лужники</text>
+                </g>
+                <g>
+                    <rect x="412.671875" y="769" width="116.3125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="528" y="782" text-anchor="end">Площадь Гагарина</text>
+                </g>
+                <g>
+                    <rect x="558.171875" y="764" width="61.8125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="619" y="777" text-anchor="end">Крымская</text>
+                </g>
+                <g>
+                    <rect x="622.109375" y="753" width="93.875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="715" y="766" text-anchor="end">Верхние Котлы</text>
+                </g>
+                <g>
+                    <rect x="729.265625" y="741" width="27.71875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="756" y="754" text-anchor="end">ЗИЛ</text>
+                </g>
+                <g>
+                    <rect x="899" y="653" width="66.046875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="900" y="666" text-anchor="start">Угрешская</text>
+                </g>
+                <g>
+                    <rect x="953" y="563" width="100.859375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="954" y="576" text-anchor="start">Новохохловская</text>
+                </g>
+                <g>
+                    <rect x="964" y="533" width="94.75" height="17" rx="3" ry="3" fill="#fff" opacity="0.7"></rect>
+                    <text x="965" y="546" text-anchor="start">Нижегородская</text>
+                </g>
+                <g>
+                    <rect x="971.96875" y="499" width="74.421875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="973" y="512" text-anchor="start">Андроновка</text>
+                </g>
+                <g>
+                    <rect x="973" y="363" width="97.4375" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="974" y="376" text-anchor="start">Соколиная гора</text>
+                </g>
+                <g>
+                    <rect x="958" y="308" width="69.671875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="959" y="321" text-anchor="start">Измайлово</text>
+                </g>
+                <g>
+                    <rect x="888" y="194" width="66.828125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="889" y="207" text-anchor="start">Локомотив</text>
+                </g>
+                <g>
+                    <rect x="834" y="146" width="90.28125" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="835" y="159" text-anchor="start">Белокаменная</text>
+                </g>
+                <g>
+                    <rect x="802" y="126" width="64.21875" height="17" rx="3" ry="3" fill="#fff"
+                          opacity="0.7"></rect>
+                    <text x="803" y="139" text-anchor="start">Ростокино</text>
+                </g>
+            </g>
+        </g>
+        <g id="highlight-layer">
+            <g id="highlight-layer-links" fill="none" stroke-width="8"></g>
+            <g id="highlight-layer-transfers" fill="rgba(255,255,255,0.6)" stroke="#000" stroke-width="2"></g>
+            <g id="highlight-layer-stations" stroke="#000" stroke-width="1" stroke-opacity="0.5"></g>
+            <g id="highlight-layer-labels" fill="#000" font-size="13" font-family="arial,sans-serif"></g>
+        </g>
+    </g>
+</svg>
