@@ -470,8 +470,8 @@
                 <circle cx="843" cy="941" r="5" fill="#B1D332" data-station-id="219"></circle>
                 <circle stroke="#fff" cx="843" cy="961" r="5" fill="#B1D332" data-station-id="218"></circle>
                 <circle stroke="#fff" cx="806" cy="842" r="5" fill="#5091BB"></circle>
-                <circle cx="726" cy="865" r="5" fill="#5091BB"></circle>
-                <circle stroke="#fff" cx="666" cy="881" r="5" fill="#5091BB"></circle>
+                <circle cx="726" cy="865" r="5" fill="#5091BB" data-station-id="15"></circle>
+                <circle stroke="#fff" cx="666" cy="881" r="5" fill="#5091BB" data-station-id="14"></circle>
                 <circle stroke="#fff" cx="577" cy="1015" r="5" fill="#85D4F3"></circle>
                 <circle cx="597" cy="1035" r="5" fill="#85D4F3"></circle>
                 <circle stroke="#fff" cx="622" cy="1060" r="5" fill="#85D4F3" data-station-id="170"></circle>
@@ -1421,12 +1421,12 @@
                 <g>
                     <rect x="734" y="856" width="76.28125" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="735" y="869" text-anchor="start">Варшавская</text>
+                    <text x="735" y="869" data-station-id="14" text-anchor="start">Варшавская</text>
                 </g>
                 <g>
                     <rect x="594.109375" y="872" width="63.875" height="17" rx="3" ry="3" fill="#fff"
                           opacity="0.7"></rect>
-                    <text x="657" y="885" text-anchor="end">Каховская</text>
+                    <text x="657" y="885" data-station-id="15" text-anchor="end">Каховская</text>
                 </g>
                 <g>
                     <rect x="466.453125" y="1006" width="102.640625" height="17" rx="3" ry="3" fill="#fff"
